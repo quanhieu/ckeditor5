@@ -1,6 +1,6 @@
 {
   "name": "@8trhieu/ckeditor5-build-classic-custom",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -83,7 +83,7 @@
   "bugs": "https://github.com/ckeditor/ckeditor5/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
+    "url": "https://github.com/quanhieu/ckeditor5/tree/stable/packages/ckeditor5-build-classic-custom",
     "directory": "packages/ckeditor5-build-classic-custom"
   },
   "scripts": {
